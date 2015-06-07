@@ -28,11 +28,5 @@
         "repository": "Zejsters/android_kernel_samsung_d2",
         "target_path": "kernel/samsung/d2",
         "revision": "cm-12.1"
-    },
-    {
-        "remote": "tm",
-        "repository": "proprietary_vendor_samsung",
-        "target_path": "vendor/samsung",
-        "revision": "cm-12.1"
     }
 ]
